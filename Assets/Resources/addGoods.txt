@@ -1,0 +1,1290 @@
+{
+  "info": {
+    "goodsArr": [
+	      {
+        "id" : "4790074f-c1ca-4c78-b3a1-cf5e55c4f93a",
+        "count" : "1",
+        "model" : {
+          "imagesResize" : [
+            "http://midea-prod-assets.s3.cn-north-1.amazonaws.com.cn/i/4790074f-c1ca-4c78-b3a1-cf5e55c4f93a/resized/iso0_w160_h160.jpg"
+          ],
+          "modifiedTime" : "2015-03-13T06:20:41.017Z",
+          "status" : 1,
+          "top" : "http://midea-prod-assets.s3.cn-north-1.amazonaws.com.cn/i/4790074f-c1ca-4c78-b3a1-cf5e55c4f93a/Top.png",
+          "vendorUrl" : "",
+          "images" : [
+            "http://midea-prod-assets.s3.cn-north-1.amazonaws.com.cn/i/4790074f-c1ca-4c78-b3a1-cf5e55c4f93a/iso.jpg"
+          ],
+          "vendor" : "Generic",
+          "ticket" : {
+
+          },
+          "name" : "door",
+          "variations" : {
+
+          },
+          "productType" : "3D",
+          "id" : "4790074f-c1ca-4c78-b3a1-cf5e55c4f93a",
+          "boundingBox" : {
+            "yLen" : 9.376700401306152,
+            "zLen" : 212.8670043945312,
+            "xLen" : 106.2949981689453
+          },
+          "groups" : [
+
+          ],
+          "retailers" : [
+            {
+              "name" : "Generic",
+              "url" : "http://www.homestyler.com"
+            }
+          ],
+          "model" : {
+            "modelUrl" : "http://midea-prod-assets.s3.cn-north-1.amazonaws.com.cn/i/4790074f-c1ca-4c78-b3a1-cf5e55c4f93a/model-fc.gz",
+            "modelBinaryUrl" : "http://midea-prod-assets.s3.cn-north-1.amazonaws.com.cn/i/4790074f-c1ca-4c78-b3a1-cf5e55c4f93a/model.gz.bobj",
+            "textureUrl" : "http://midea-prod-assets.s3.cn-north-1.amazonaws.com.cn/i/4790074f-c1ca-4c78-b3a1-cf5e55c4f93a/model-fc.png"
+          },
+          "tp" : "door",
+          "zIndex" : "400",
+          "attributes" : [
+            {
+              "name" : "AssetType",
+              "values" : [
+                {                   "id" : "001e1123-52fb-42d4-a4fe-beffc201084a",
+                  "value" : "3D"
+                }
+              ],
+              "id" : "f2ebc921-291a-42c6-be8d-e6f3019672fb"
+            },
+            {
+              "name" : "zindex",
+              "values" : [
+                {
+                  "id" : "ec4eb3f3-fc93-4922-af58-303fb740d516",
+                  "value" : "400"
+                }
+              ],
+              "id" : "9760302e-698a-4a18-8872-72f6ae9568bb"
+            },
+            {
+              "name" : "WallOpeningType",
+              "values" : [
+                {
+                  "id" : "37d43e45-aac3-4ab1-ada1-66b28c09b1f0",
+                  "value" : "Door"
+                }
+              ],
+              "id" : "d852d083-4918-4f1b-b12f-72ac42d7325d"
+            },
+            {
+              "name" : "ContentType",
+              "values" : [
+                {
+                  "id" : "873d33e2-45f6-4c7b-aef5-cbfe56cf6d7c",
+                  "value" : "door/single swing door"
+                }
+              ],
+              "id" : "6d6d224e-bae0-4045-8c98-b044332ee7aa"
+            },
+            {
+              "free" : [
+                "0"
+              ],
+              "id" : "attr_defaultHeight",
+              "name" : "defaultHeight",
+              "values" : [
+
+              ]
+            }
+          ],
+          "categories" : [
+            "187_COPY",
+            "2ffc642e-0042-48b8-b3f0-3e9191011a0a_COPY"
+          ]
+        }
+      },
+	 {
+        "id" : "2e472122-035e-4c5c-a95c-58eee86c11d9",
+        "count" : "1",
+        "model" : {
+          "imagesResize" : [
+            "http://midea-prod-assets.s3.cn-north-1.amazonaws.com.cn/i/2e472122-035e-4c5c-a95c-58eee86c11d9/resized/iso0_w160_h160.jpg"
+          ],
+          "modifiedTime" : "2015-03-13T06:26:21.467Z",
+          "status" : 1,
+          "top" : "http://midea-prod-assets.s3.cn-north-1.amazonaws.com.cn/i/2e472122-035e-4c5c-a95c-58eee86c11d9/Top.png",
+          "vendorUrl" : "http://hsm-prod-assets.S3.amazonaws.com/vendorlogos/42/logo.jpg",
+          "images" : [
+            "http://midea-prod-assets.s3.cn-north-1.amazonaws.com.cn/i/2e472122-035e-4c5c-a95c-58eee86c11d9/iso.jpg"
+          ],
+          "vendor" : "Duratherm",
+          "ticket" : {
+            "sku" : ""
+          },
+          "name" : "Fixed window ",
+          "variations" : {
+
+          },
+          "productType" : "3D",
+          "id" : "2e472122-035e-4c5c-a95c-58eee86c11d9",
+          "boundingBox" : {
+            "yLen" : 22.36079978942871,
+            "zLen" : 148.8699951171875,
+            "xLen" : 99.65219879150391
+          },
+          "groups" : [
+
+          ],
+          "retailers" : [
+            {
+              "name" : "Duratherm",
+              "url" : "http://www.durathermwindow.com/windows/fixed-frame"
+            }
+          ],
+          "model" : {
+            "modelUrl" : "http://midea-prod-assets.s3.cn-north-1.amazonaws.com.cn/i/2e472122-035e-4c5c-a95c-58eee86c11d9/model-fc.gz",
+            "modelBinaryUrl" : "http://midea-prod-assets.s3.cn-north-1.amazonaws.com.cn/i/2e472122-035e-4c5c-a95c-58eee86c11d9/model.gz.bobj",
+            "textureUrl" : "http://midea-prod-assets.s3.cn-north-1.amazonaws.com.cn/i/2e472122-035e-4c5c-a95c-58eee86c11d9/model-fc.png"
+          },
+          "tp" : "window",
+          "zIndex" : "400",
+          "attributes" : [
+            {
+              "name" : "zindex",
+              "values" : [
+                {
+                  "id" : "ec4eb3f3-fc93-4922-af58-303fb740d516",
+                  "value" : "400"
+                }
+              ],
+              "id" : "9760302e-698a-4a18-8872-72f6ae9568bb"
+            },
+            {
+              "name" : "WallOpeningType",
+              "values" : [
+                {
+                  "id" : "838b3513-56f4-4b65-841a-83c05d6fb2a4",
+                  "value" : "Window"
+                }
+              ],
+              "id" : "d852d083-4918-4f1b-b12f-72ac42d7325d"
+            },
+            {
+              "name" : "AssetType",
+              "values" : [
+                {
+                  "id" : "001e1123-52fb-42d4-a4fe-beffc201084a",
+                  "value" : "3D"
+                }
+              ],
+              "id" : "f2ebc921-291a-42c6-be8d-e6f3019672fb"
+            },
+            {
+              "name" : "isScalable",
+              "values" : [
+                {
+                  "id" : "f7a2e788-611f-459a-908d-dadd483699d9",
+                  "value" : "false"
+                }
+              ],
+              "id" : "d84e3ec7-d39a-471e-8f39-58f645e209ef"
+            },
+            {
+              "name" : "Styles",
+              "values" : [
+
+                {
+                  "id" : "7511b29a-1d8b-4166-b8af-a09e57b8ba7b",
+                  "value" : "Country"
+                }
+              ],
+              "id" : "9221463d-18ca-4b63-b09b-a2000585a00b"
+            },
+            {
+              "name" : "ContentType",
+              "values" : [
+                {
+                  "id" : "e8ebaa79-041a-4977-badc-c00f6780d109",
+                  "value" : "window/window"
+                }
+              ],
+              "id" : "6d6d224e-bae0-4045-8c98-b044332ee7aa"
+            },
+            {
+              "free" : [
+                "85"
+              ],
+              "id" : "attr_defaultHeight",
+              "name" : "defaultHeight",
+              "values" : [
+
+              ]
+            }
+          ],
+          "categories" : [
+            "158_COPY",
+            "65c66766-b2db-472b-8ee4-ff31bf61d179_COPY"
+          ]
+        }
+      },
+      {
+        "model": {
+          "imagesResize": [
+            "http://midea-prod-assets.s3.cn-north-1.amazonaws.com.cn/i/8b7df9b0-28f5-4c88-a412-324284ccc923/resized/iso_w160_h160.jpg"
+          ],
+          "modifiedTime": "2016-03-14T16:10:57.389Z",
+          "status": 1,
+          "top": "http://midea-prod-assets.s3.cn-north-1.amazonaws.com.cn/i/8b7df9b0-28f5-4c88-a412-324284ccc923/Top.png",
+          "vendorUrl": "http://cf-hsm-prod-assets.homestyler.com/Brands/e18cbeda-c5ca-4585-99ff-df0a9b2b04f6.png",
+          "images": [
+            "http://midea-prod-assets.s3.cn-north-1.amazonaws.com.cn/i/8b7df9b0-28f5-4c88-a412-324284ccc923/iso.jpg"
+          ],
+          "vendor": "E-JEYIK澳凡家具",
+          "ticket": {
+            "sku": "test_kt05_banchi"
+          },
+          "name": "摆件02_澳凡配件",
+          "variations": {},
+          "productType": "3D",
+          "id": "8b7df9b0-28f5-4c88-a412-324284ccc923",
+          "boundingBox": {
+            "yLen": 1.13919997215271,
+            "zLen": 111.5749969482422,
+            "xLen": 62.56779861450195
+          },
+          "groups": [],
+          "retailers": [],
+          "model": {
+            "modelNormalizedUrl": "http://midea-prod-assets.s3.cn-north-1.amazonaws.com.cn/i/8b7df9b0-28f5-4c88-a412-324284ccc923/model-norm-fc.gz",
+            "modelUrl": "http://midea-prod-assets.s3.cn-north-1.amazonaws.com.cn/i/8b7df9b0-28f5-4c88-a412-324284ccc923/model-fc.gz",
+            "textureUrl": "http://midea-prod-assets.s3.cn-north-1.amazonaws.com.cn/i/8b7df9b0-28f5-4c88-a412-324284ccc923/model-fc.png",
+            "modelBinaryUrl": "http://midea-prod-assets.s3.cn-north-1.amazonaws.com.cn/i/8b7df9b0-28f5-4c88-a412-324284ccc923/model.gz.bobj"
+          },
+          "families": [],
+          "tp": "wall_attachment",
+          "zIndex": "400",
+          "attributes": [
+            {
+              "name": "zindex",
+              "values": [
+                {
+                  "id": "ec4eb3f3-fc93-4922-af58-303fb740d516",
+                  "value": "400"
+                }
+              ],
+              "id": "9760302e-698a-4a18-8872-72f6ae9568bb"
+            },
+            {
+              "name": "ContentType",
+              "values": [
+                {
+                  "id": "6ecefcb0-12cd-4601-bd9a-5d49279dca4c",
+                  "value": "accessory/accessory - wall-attached"
+                }
+              ],
+              "id": "6d6d224e-bae0-4045-8c98-b044332ee7aa"
+            },
+            {
+              "name": "AssetType",
+              "values": [
+                {
+                  "id": "001e1123-52fb-42d4-a4fe-beffc201084a",
+                  "value": "3D"
+                }
+              ],
+              "id": "f2ebc921-291a-42c6-be8d-e6f3019672fb"
+            },
+            {
+              "name": "isScalable",
+              "values": [
+                {
+                  "id": "f7a2e788-611f-459a-908d-dadd483699d9",
+                  "value": "false"
+                }
+              ],
+              "id": "d84e3ec7-d39a-471e-8f39-58f645e209ef"
+            },
+            {
+              "name": "Styles",
+              "values": [
+                {
+                  "id": "77aff27e-fb52-4f48-9f97-ab9edf3f6d06",
+                  "value": "Minimalist"
+                }
+              ],
+              "id": "9221463d-18ca-4b63-b09b-a2000585a00b"
+            },
+            {
+              "name": "meshReduce",
+              "values": [
+                {
+                  "id": "a4179365-132a-4e14-8860-1e56bcedb8b2",
+                  "value": "false"
+                }
+              ],
+              "id": "4266633f-c95b-459c-9cce-1447fdf31ed5"
+            },
+            {
+              "free": [
+                "180"
+              ],
+              "id": "attr_defaultHeight",
+              "name": "defaultHeight",
+              "values": []
+            },
+            {
+              "free": [
+                ""
+              ],
+              "id": "attr_dwgFile",
+              "name": "dwgFile",
+              "values": []
+            },
+            {
+              "name": "meshReduce",
+              "values": [
+                {
+                  "id": "a4179365-132a-4e14-8860-1e56bcedb8b2",
+                  "value": "false"
+                }
+              ],
+              "id": "4266633f-c95b-459c-9cce-1447fdf31ed5"
+            },
+            {
+              "name": "meshReduce",
+              "values": [
+                {
+                  "id": "a4179365-132a-4e14-8860-1e56bcedb8b2",
+                  "value": "false"
+                }
+              ],
+              "id": "4266633f-c95b-459c-9cce-1447fdf31ed5"
+            },
+            {
+              "name": "meshReduce",
+              "values": [
+                {
+                  "id": "a4179365-132a-4e14-8860-1e56bcedb8b2",
+                  "value": "false"
+                }
+              ],
+              "id": "4266633f-c95b-459c-9cce-1447fdf31ed5"
+            },
+            {
+              "name": "meshReduce",
+              "values": [
+                {
+                  "id": "a4179365-132a-4e14-8860-1e56bcedb8b2",
+                  "value": "false"
+                }
+              ],
+              "id": "4266633f-c95b-459c-9cce-1447fdf31ed5"
+            }
+          ],
+          "categories": [
+            "8960f020-e44a-40ea-a85a-6a22e8f864d7"
+          ]
+        },
+        "id": "8b7df9b0-28f5-4c88-a412-324284ccc923",
+        "path": "/var/mobile/Containers/Data/Application/0518CFFA-2098-4641-AAFA-C71D7A2C4CB6/Library/Caches/default/com.hackemist.SDWebImageCache.default/dcb9b804ad287f15f1335a3a45497613.jpg",
+        "count": "1"
+      },
+      {
+        "model": {
+          "imagesResize": [
+            "http://midea-prod-assets.s3.cn-north-1.amazonaws.com.cn/i/b63a5fcb-607c-4aab-87ec-bbe89e9ce676/resized/iso_w160_h160.jpg"
+          ],
+          "modifiedTime": "2016-02-22T06:04:29.235Z",
+          "status": 1,
+          "top": "http://midea-prod-assets.s3.cn-north-1.amazonaws.com.cn/i/b63a5fcb-607c-4aab-87ec-bbe89e9ce676/Top.png",
+          "vendorUrl": "http://cf-hsm-prod-assets.homestyler.com/Brands/dbdb04d5-ff28-4997-9d4c-b6cea0632837.png",
+          "images": [
+            "http://midea-prod-assets.s3.cn-north-1.amazonaws.com.cn/i/b63a5fcb-607c-4aab-87ec-bbe89e9ce676/iso.jpg"
+          ],
+          "vendor": "ALEXANDRE_亚力山卓",
+          "ticket": {
+            "sku": ""
+          },
+          "name": "cj02_diaodeng",
+          "variations": {},
+          "productType": "3D",
+          "id": "b63a5fcb-607c-4aab-87ec-bbe89e9ce676",
+          "boundingBox": {
+            "yLen": 87.91729736328125,
+            "zLen": 133.1719970703125,
+            "xLen": 98.66439819335938
+          },
+          "groups": [],
+          "retailers": [],
+          "model": {
+            "modelNormalizedUrl": "http://midea-prod-assets.s3.cn-north-1.amazonaws.com.cn/i/b63a5fcb-607c-4aab-87ec-bbe89e9ce676/model-norm-fc.gz",
+            "modelUrl": "http://midea-prod-assets.s3.cn-north-1.amazonaws.com.cn/i/b63a5fcb-607c-4aab-87ec-bbe89e9ce676/model-fc.gz",
+            "textureUrl": "http://midea-prod-assets.s3.cn-north-1.amazonaws.com.cn/i/b63a5fcb-607c-4aab-87ec-bbe89e9ce676/model-fc.png",
+            "modelBinaryUrl": "http://midea-prod-assets.s3.cn-north-1.amazonaws.com.cn/i/b63a5fcb-607c-4aab-87ec-bbe89e9ce676/model.gz.bobj"
+          },
+          "families": [],
+          "tp": "ceiling_attachment",
+          "zIndex": "500",
+          "attributes": [
+            {
+              "name": "zindex",
+              "values": [
+                {
+                  "id": "dfc40a0e-dc8c-4fc3-9292-81f982856de1",
+                  "value": "500"
+                }
+              ],
+              "id": "9760302e-698a-4a18-8872-72f6ae9568bb"
+            },
+            {
+              "name": "ContentType",
+              "values": [
+                {
+                  "id": "8c1f1cef-83da-48c2-afde-551b12242683",
+                  "value": "lighting/track-mounted spotlight- ceiling-attached"
+                }
+              ],
+              "id": "6d6d224e-bae0-4045-8c98-b044332ee7aa"
+            },
+            {
+              "name": "AssetType",
+              "values": [
+                {
+                  "id": "001e1123-52fb-42d4-a4fe-beffc201084a",
+                  "value": "3D"
+                }
+              ],
+              "id": "f2ebc921-291a-42c6-be8d-e6f3019672fb"
+            },
+            {
+              "name": "isScalable",
+              "values": [
+                {
+                  "id": "f7a2e788-611f-459a-908d-dadd483699d9",
+                  "value": "false"
+                }
+              ],
+              "id": "d84e3ec7-d39a-471e-8f39-58f645e209ef"
+            },
+            {
+              "name": "meshReduce",
+              "values": [
+                {
+                  "id": "a4179365-132a-4e14-8860-1e56bcedb8b2",
+                  "value": "false"
+                }
+              ],
+              "id": "4266633f-c95b-459c-9cce-1447fdf31ed5"
+            },
+            {
+              "free": [
+                ""
+              ],
+              "id": "attr_defaultHeight",
+              "name": "defaultHeight",
+              "values": []
+            },
+            {
+              "free": [
+                "home_light_track_top"
+              ],
+              "id": "attr_dwgFile",
+              "name": "dwgFile",
+              "values": []
+            },
+            {
+              "name": "meshReduce",
+              "values": [
+                {
+                  "id": "a4179365-132a-4e14-8860-1e56bcedb8b2",
+                  "value": "false"
+                }
+              ],
+              "id": "4266633f-c95b-459c-9cce-1447fdf31ed5"
+            },
+            {
+              "name": "Colors",
+              "values": [
+                {
+                  "id": "180d6f10-3121-4684-8cb9-027790d32971",
+                  "value": "Brown"
+                }
+              ],
+              "id": "f89e5131-3ddb-4b55-b522-50205909c3e4"
+            }
+          ],
+          "categories": [
+            "84cf7f3b-46a3-4c32-83d8-cffd271f910d"
+          ]
+        },
+        "id": "b63a5fcb-607c-4aab-87ec-bbe89e9ce676",
+        "path": "/var/mobile/Containers/Data/Application/0518CFFA-2098-4641-AAFA-C71D7A2C4CB6/Library/Caches/default/com.hackemist.SDWebImageCache.default/aed8caf7b72cabf75400aa4665a2dd55.jpg",
+        "count": "1"
+      },
+      {
+        "model": {
+          "imagesResize": [
+            "http://midea-prod-assets.s3.cn-north-1.amazonaws.com.cn/i/4e02c88b-af63-4c61-a37d-15f958d89c40/resized/iso_w160_h160.jpg"
+          ],
+          "modifiedTime": "2016-02-22T06:30:35.650Z",
+          "status": 1,
+          "top": "",
+          "vendorUrl": "http://cf-hsm-prod-assets.homestyler.com/Brands/dbdb04d5-ff28-4997-9d4c-b6cea0632837.png",
+          "images": [
+            "http://midea-prod-assets.s3.cn-north-1.amazonaws.com.cn/i/4e02c88b-af63-4c61-a37d-15f958d89c40/iso.jpg"
+          ],
+          "vendor": "ALEXANDRE_亚力山卓",
+          "ticket": {
+            "sku": ""
+          },
+          "name": "cj03_diban",
+          "variations": {},
+          "productType": "FloorTiles",
+          "id": "4e02c88b-af63-4c61-a37d-15f958d89c40",
+          "boundingBox": {
+            "yLen": 200,
+            "zLen": 200,
+            "xLen": 200
+          },
+          "groups": [],
+          "retailers": [],
+          "model": {
+            "modelUrl": "",
+            "textureUrl": "http://midea-prod-assets.s3.cn-north-1.amazonaws.com.cn/i/4e02c88b-af63-4c61-a37d-15f958d89c40/wallfloor.jpg"
+          },
+          "families": [],
+          "tp": "material_floor",
+          "zIndex": "200",
+          "tileSize": "400,400",
+          "attributes": [
+            {
+              "name": "zindex",
+              "values": [
+                {
+                  "id": "b8edcdbd-f62c-427b-9baf-3262b356a9df",
+                  "value": "200"
+                }
+              ],
+              "id": "9760302e-698a-4a18-8872-72f6ae9568bb"
+            },
+            {
+              "name": "ContentType",
+              "values": [
+                {
+                  "id": "75e8c14e-5d9f-4609-bf82-246414f3877c",
+                  "value": "floor/tiles"
+                }
+              ],
+              "id": "6d6d224e-bae0-4045-8c98-b044332ee7aa"
+            },
+            {
+              "name": "AssetType",
+              "values": [
+                {
+                  "id": "c7caefaf-fc4d-4e40-960c-01445f43e949",
+                  "value": "FloorTiles"
+                }
+              ],
+              "id": "f2ebc921-291a-42c6-be8d-e6f3019672fb"
+            },
+            {
+              "name": "isScalable",
+              "values": [
+                {
+                  "id": "f7a2e788-611f-459a-908d-dadd483699d9",
+                  "value": "false"
+                }
+              ],
+              "id": "d84e3ec7-d39a-471e-8f39-58f645e209ef"
+            },
+            {
+              "free": [
+                ""
+              ],
+              "id": "attr_defaultHeight",
+              "name": "defaultHeight",
+              "values": []
+            },
+            {
+              "free": [
+                ""
+              ],
+              "id": "attr_dwgFile",
+              "name": "dwgFile",
+              "values": []
+            },
+            {
+              "name": "meshReduce",
+              "values": [
+                {
+                  "id": "a4179365-132a-4e14-8860-1e56bcedb8b2",
+                  "value": "false"
+                }
+              ],
+              "id": "4266633f-c95b-459c-9cce-1447fdf31ed5"
+            },
+            {
+              "free": [
+                "400",
+                "400"
+              ],
+              "id": "ebb2b817-33f3-45ac-8ce0-5eb4029fb149",
+              "name": "tileSize",
+              "values": []
+            }
+          ],
+          "categories": [
+            "84cf7f3b-46a3-4c32-83d8-cffd271f910d"
+          ]
+        },
+        "id": "4e02c88b-af63-4c61-a37d-15f958d89c40",
+        "path": "/var/mobile/Containers/Data/Application/0518CFFA-2098-4641-AAFA-C71D7A2C4CB6/Library/Caches/default/com.hackemist.SDWebImageCache.default/83fe3b808aeae43fe5b2c2d241cffafa.jpg",
+        "count": "4"
+      },
+      {
+        "model": {
+          "imagesResize": [
+            "http://midea-prod-assets.s3.cn-north-1.amazonaws.com.cn/i/dd56ad0d-89d6-4ad7-b3a9-75fedf480400/resized/iso_w160_h160.jpg"
+          ],
+          "modifiedTime": "2016-02-22T06:08:13.137Z",
+          "status": 1,
+          "top": "http://midea-prod-assets.s3.cn-north-1.amazonaws.com.cn/i/dd56ad0d-89d6-4ad7-b3a9-75fedf480400/Top.png",
+          "vendorUrl": "http://cf-hsm-prod-assets.homestyler.com/Brands/dbdb04d5-ff28-4997-9d4c-b6cea0632837.png",
+          "images": [
+            "http://midea-prod-assets.s3.cn-north-1.amazonaws.com.cn/i/dd56ad0d-89d6-4ad7-b3a9-75fedf480400/iso.jpg"
+          ],
+          "vendor": "ALEXANDRE_亚力山卓",
+          "ticket": {
+            "sku": ""
+          },
+          "name": "cj03_chuang",
+          "variations": {},
+          "productType": "3D",
+          "id": "dd56ad0d-89d6-4ad7-b3a9-75fedf480400",
+          "boundingBox": {
+            "yLen": 247.3780059814453,
+            "zLen": 139.10400390625,
+            "xLen": 279.6449890136719
+          },
+          "groups": [],
+          "retailers": [],
+          "model": {
+            "modelNormalizedUrl": "http://midea-prod-assets.s3.cn-north-1.amazonaws.com.cn/i/dd56ad0d-89d6-4ad7-b3a9-75fedf480400/model-norm-fc.gz",
+            "modelUrl": "http://midea-prod-assets.s3.cn-north-1.amazonaws.com.cn/i/dd56ad0d-89d6-4ad7-b3a9-75fedf480400/model-fc.gz",
+            "textureUrl": "http://midea-prod-assets.s3.cn-north-1.amazonaws.com.cn/i/dd56ad0d-89d6-4ad7-b3a9-75fedf480400/model-fc.png",
+            "modelBinaryUrl": "http://midea-prod-assets.s3.cn-north-1.amazonaws.com.cn/i/dd56ad0d-89d6-4ad7-b3a9-75fedf480400/model.gz.bobj"
+          },
+          "families": [],
+          "tp": "seating",
+          "zIndex": "200",
+          "attributes": [
+            {
+              "name": "zindex",
+              "values": [
+                {
+                  "id": "b8edcdbd-f62c-427b-9baf-3262b356a9df",
+                  "value": "200"
+                }
+              ],
+              "id": "9760302e-698a-4a18-8872-72f6ae9568bb"
+            },
+            {
+              "name": "ContentType",
+              "values": [
+                {
+                  "id": "434871ea-2869-4622-9b2f-80a9fd1ed47f",
+                  "value": "bed/single bed"
+                }
+              ],
+              "id": "6d6d224e-bae0-4045-8c98-b044332ee7aa"
+            },
+            {
+              "name": "AssetType",
+              "values": [
+                {
+                  "id": "001e1123-52fb-42d4-a4fe-beffc201084a",
+                  "value": "3D"
+                }
+              ],
+              "id": "f2ebc921-291a-42c6-be8d-e6f3019672fb"
+            },
+            {
+              "name": "isScalable",
+              "values": [
+                {
+                  "id": "f7a2e788-611f-459a-908d-dadd483699d9",
+                  "value": "false"
+                }
+              ],
+              "id": "d84e3ec7-d39a-471e-8f39-58f645e209ef"
+            },
+            {
+              "name": "meshReduce",
+              "values": [
+                {
+                  "id": "a4179365-132a-4e14-8860-1e56bcedb8b2",
+                  "value": "false"
+                }
+              ],
+              "id": "4266633f-c95b-459c-9cce-1447fdf31ed5"
+            },
+            {
+              "free": [
+                ""
+              ],
+              "id": "attr_defaultHeight",
+              "name": "defaultHeight",
+              "values": []
+            },
+            {
+              "free": [
+                "home_bed_single_top"
+              ],
+              "id": "attr_dwgFile",
+              "name": "dwgFile",
+              "values": []
+            },
+            {
+              "name": "meshReduce",
+              "values": [
+                {
+                  "id": "a4179365-132a-4e14-8860-1e56bcedb8b2",
+                  "value": "false"
+                }
+              ],
+              "id": "4266633f-c95b-459c-9cce-1447fdf31ed5"
+            },
+            {
+              "name": "meshReduce",
+              "values": [
+                {
+                  "id": "a4179365-132a-4e14-8860-1e56bcedb8b2",
+                  "value": "false"
+                }
+              ],
+              "id": "4266633f-c95b-459c-9cce-1447fdf31ed5"
+            }
+          ],
+          "categories": [
+            "84cf7f3b-46a3-4c32-83d8-cffd271f910d"
+          ]
+        },
+        "id": "dd56ad0d-89d6-4ad7-b3a9-75fedf480400",
+        "path": "/var/mobile/Containers/Data/Application/0518CFFA-2098-4641-AAFA-C71D7A2C4CB6/Library/Caches/default/com.hackemist.SDWebImageCache.default/2a2e6ebcb3fa6412bccaa119039058e5.jpg",
+        "count": "6"
+      },
+      {
+        "model": {
+          "imagesResize": [
+            "http://midea-prod-assets.s3.cn-north-1.amazonaws.com.cn/i/5af71694-f95f-4cd2-b273-5609701889fc/resized/iso_w160_h160.jpg"
+          ],
+          "modifiedTime": "2016-02-22T06:08:24.946Z",
+          "status": 1,
+          "top": "http://midea-prod-assets.s3.cn-north-1.amazonaws.com.cn/i/5af71694-f95f-4cd2-b273-5609701889fc/Top.png",
+          "vendorUrl": "http://cf-hsm-prod-assets.homestyler.com/Brands/dbdb04d5-ff28-4997-9d4c-b6cea0632837.png",
+          "images": [
+            "http://midea-prod-assets.s3.cn-north-1.amazonaws.com.cn/i/5af71694-f95f-4cd2-b273-5609701889fc/iso.jpg"
+          ],
+          "vendor": "ALEXANDRE_亚力山卓",
+          "ticket": {
+            "sku": ""
+          },
+          "name": "cj03_chuanglian",
+          "variations": {},
+          "productType": "3D",
+          "id": "5af71694-f95f-4cd2-b273-5609701889fc",
+          "boundingBox": {
+            "yLen": 29.58130073547363,
+            "zLen": 297.9769897460938,
+            "xLen": 558.0640258789062
+          },
+          "groups": [],
+          "retailers": [],
+          "model": {
+            "modelNormalizedUrl": "http://midea-prod-assets.s3.cn-north-1.amazonaws.com.cn/i/5af71694-f95f-4cd2-b273-5609701889fc/model-norm-fc.gz",
+            "modelUrl": "http://midea-prod-assets.s3.cn-north-1.amazonaws.com.cn/i/5af71694-f95f-4cd2-b273-5609701889fc/model-fc.gz",
+            "textureUrl": "http://midea-prod-assets.s3.cn-north-1.amazonaws.com.cn/i/5af71694-f95f-4cd2-b273-5609701889fc/model-fc.png",
+            "modelBinaryUrl": "http://midea-prod-assets.s3.cn-north-1.amazonaws.com.cn/i/5af71694-f95f-4cd2-b273-5609701889fc/model.gz.bobj"
+          },
+          "families": [],
+          "tp": "wall_attachment",
+          "zIndex": "400",
+          "attributes": [
+            {
+              "name": "zindex",
+              "values": [
+                {
+                  "id": "ec4eb3f3-fc93-4922-af58-303fb740d516",
+                  "value": "400"
+                }
+              ],
+              "id": "9760302e-698a-4a18-8872-72f6ae9568bb"
+            },
+            {
+              "name": "ContentType",
+              "values": [
+                {
+                  "id": "872f7542-a1d2-48d4-9126-55ca3124b4d4",
+                  "value": "curtain/curtain"
+                }
+              ],
+              "id": "6d6d224e-bae0-4045-8c98-b044332ee7aa"
+            },
+            {
+              "name": "AssetType",
+              "values": [
+                {
+                  "id": "001e1123-52fb-42d4-a4fe-beffc201084a",
+                  "value": "3D"
+                }
+              ],
+              "id": "f2ebc921-291a-42c6-be8d-e6f3019672fb"
+            },
+            {
+              "name": "isScalable",
+              "values": [
+                {
+                  "id": "f7a2e788-611f-459a-908d-dadd483699d9",
+                  "value": "false"
+                }
+              ],
+              "id": "d84e3ec7-d39a-471e-8f39-58f645e209ef"
+            },
+            {
+              "name": "meshReduce",
+              "values": [
+                {
+                  "id": "a4179365-132a-4e14-8860-1e56bcedb8b2",
+                  "value": "false"
+                }
+              ],
+              "id": "4266633f-c95b-459c-9cce-1447fdf31ed5"
+            },
+            {
+              "free": [
+                "0"
+              ],
+              "id": "attr_defaultHeight",
+              "name": "defaultHeight",
+              "values": []
+            },
+            {
+              "free": [
+                "home_curtain_d_top"
+              ],
+              "id": "attr_dwgFile",
+              "name": "dwgFile",
+              "values": []
+            }
+          ],
+          "categories": [
+            "84cf7f3b-46a3-4c32-83d8-cffd271f910d"
+          ]
+        },
+        "id": "5af71694-f95f-4cd2-b273-5609701889fc",
+        "path": "/var/mobile/Containers/Data/Application/0518CFFA-2098-4641-AAFA-C71D7A2C4CB6/Library/Caches/default/com.hackemist.SDWebImageCache.default/8fd510fe06b11d45af1d87fabc21fb9e.jpg",
+        "count": "1"
+      }
+	  {
+        "id" : "04bbf33c-7f16-4072-b484-585e5e10ea88",
+        "count" : "1",
+        "model" : {
+          "imagesResize" : [
+            "http:\/\/midea-prod-assets.s3.cn-north-1.amazonaws.com.cn\/i\/04bbf33c-7f16-4072-b484-585e5e10ea88\/resized\/iso_w160_h160.jpg"
+          ],
+          "modifiedTime" : "2016-07-26T06:05:49.579Z",
+          "status" : 1,
+          "top" : "http:\/\/midea-prod-assets.s3.cn-north-1.amazonaws.com.cn\/i\/04bbf33c-7f16-4072-b484-585e5e10ea88\/Top.png",
+          "vendorUrl" : "http:\/\/cf-hsm-prod-assets.homestyler.com\/Brands\/0ac3bb4a-adce-4b2a-a52b-eb11c25cf54f.png",
+          "images" : [
+            "http:\/\/midea-prod-assets.s3.cn-north-1.amazonaws.com.cn\/i\/04bbf33c-7f16-4072-b484-585e5e10ea88\/iso.jpg"
+          ],
+          "vendor" : "TC",
+          "ticket" : {
+            "sku" : "scene_a_0016_0001"
+          },
+          "name" : "scene_a_0016_0001",
+          "variations" : {
+
+          },
+          "productType" : "3D",
+          "id" : "04bbf33c-7f16-4072-b484-585e5e10ea88",
+          "boundingBox" : {
+            "yLen" : 703.2789916992188,
+            "zLen" : 12,
+            "xLen" : 650
+          },
+          "groups" : [
+
+          ],
+          "retailers" : [
+
+          ],
+          "model" : {
+            "modelNormalizedUrl" : "http:\/\/midea-prod-assets.s3.cn-north-1.amazonaws.com.cn\/i\/04bbf33c-7f16-4072-b484-585e5e10ea88\/model-norm-fc.gz",
+            "modelUrl" : "http:\/\/midea-prod-assets.s3.cn-north-1.amazonaws.com.cn\/i\/04bbf33c-7f16-4072-b484-585e5e10ea88\/model-fc.gz",
+            "textureUrl" : "http:\/\/midea-prod-assets.s3.cn-north-1.amazonaws.com.cn\/i\/04bbf33c-7f16-4072-b484-585e5e10ea88\/model-fc.png",
+            "modelBinaryUrl" : "http:\/\/midea-prod-assets.s3.cn-north-1.amazonaws.com.cn\/i\/04bbf33c-7f16-4072-b484-585e5e10ea88\/model.gz.bobj"
+          },
+          "families" : [
+
+          ],
+          "tp" : "ceiling_attachment",
+          "zIndex" : "500",
+          "attributes" : [
+            {
+              "name" : "zindex",
+              "values" : [
+                {
+                  "id" : "dfc40a0e-dc8c-4fc3-9292-81f982856de1",
+                  "value" : "500"
+                }
+              ],
+              "id" : "9760302e-698a-4a18-8872-72f6ae9568bb"
+            },
+            {
+              "name" : "ContentType",
+              "values" : [
+                {
+                  "id" : "011aa41c-79f8-420a-80f5-22fe8b92648c",
+                  "value" : "accessory\/accessory - ceiling-attached"
+                }
+              ],
+              "id" : "6d6d224e-bae0-4045-8c98-b044332ee7aa"
+            },
+            {
+              "name" : "AssetType",
+              "values" : [
+                {
+                  "id" : "001e1123-52fb-42d4-a4fe-beffc201084a",
+                  "value" : "3D"
+                }
+              ],
+              "id" : "f2ebc921-291a-42c6-be8d-e6f3019672fb"
+            },
+            {
+              "name" : "isScalable",
+              "values" : [
+                {
+                  "id" : "f7a2e788-611f-459a-908d-dadd483699d9",
+                  "value" : "false"
+                }
+              ],
+              "id" : "d84e3ec7-d39a-471e-8f39-58f645e209ef"
+            },
+            {
+              "name" : "meshReduce",
+              "values" : [
+                {
+                  "id" : "a4179365-132a-4e14-8860-1e56bcedb8b2",
+                  "value" : "false"
+                }
+              ],
+              "id" : "4266633f-c95b-459c-9cce-1447fdf31ed5"
+            },
+            {
+              "free" : [
+                ""
+              ],
+              "id" : "attr_defaultHeight",
+              "name" : "defaultHeight",
+              "values" : [
+
+              ]
+            },
+            {
+              "free" : [
+                ""
+              ],
+              "id" : "attr_dwgFile",
+              "name" : "dwgFile",
+              "values" : [
+
+              ]
+            },
+            {
+              "name" : "meshReduce",
+              "values" : [
+                {
+                  "id" : "a4179365-132a-4e14-8860-1e56bcedb8b2",
+                  "value" : "false"
+                }
+              ],
+              "id" : "4266633f-c95b-459c-9cce-1447fdf31ed5"
+            }
+          ],
+          "categories" : [
+            "173417c5-e9a9-4bc9-8e50-178a066391ac"
+          ]
+        }
+      }
+	  {
+        "id" : "2291dc0d-9aab-4611-94c0-f963aebc822c",
+        "count" : "1",
+        "model" : {
+          "imagesResize" : [
+            "http:\/\/midea-prod-assets.s3.cn-north-1.amazonaws.com.cn\/i\/2291dc0d-9aab-4611-94c0-f963aebc822c\/resized\/iso_w160_h160.jpg"
+          ],
+          "modifiedTime" : "2016-03-28T09:20:44.586Z",
+          "status" : 1,
+          "top" : "http:\/\/midea-prod-assets.s3.cn-north-1.amazonaws.com.cn\/i\/2291dc0d-9aab-4611-94c0-f963aebc822c\/Top.png",
+          "vendorUrl" : "http:\/\/cf-hsm-prod-assets.homestyler.com\/Brands\/0ac3bb4a-adce-4b2a-a52b-eb11c25cf54f.png",
+          "images" : [
+            "http:\/\/midea-prod-assets.s3.cn-north-1.amazonaws.com.cn\/i\/2291dc0d-9aab-4611-94c0-f963aebc822c\/iso.jpg"
+          ],
+          "vendor" : "TC",
+          "ticket" : {
+            "sku" : "test_kt06_ditan"
+          },
+          "name" : "地毯_罗浮宫客厅",
+          "variations" : {
+
+          },
+          "productType" : "3D",
+          "id" : "2291dc0d-9aab-4611-94c0-f963aebc822c",
+          "boundingBox" : {
+            "yLen" : 200,
+            "zLen" : 0.300000011920929,
+            "xLen" : 400
+          },
+          "groups" : [
+
+          ],
+          "retailers" : [
+
+          ],
+          "model" : {
+            "modelNormalizedUrl" : "http:\/\/midea-prod-assets.s3.cn-north-1.amazonaws.com.cn\/i\/2291dc0d-9aab-4611-94c0-f963aebc822c\/model-norm-fc.gz",
+            "modelUrl" : "http:\/\/midea-prod-assets.s3.cn-north-1.amazonaws.com.cn\/i\/2291dc0d-9aab-4611-94c0-f963aebc822c\/model-fc.gz",
+            "textureUrl" : "http:\/\/midea-prod-assets.s3.cn-north-1.amazonaws.com.cn\/i\/2291dc0d-9aab-4611-94c0-f963aebc822c\/model-fc.png",
+            "modelBinaryUrl" : "http:\/\/midea-prod-assets.s3.cn-north-1.amazonaws.com.cn\/i\/2291dc0d-9aab-4611-94c0-f963aebc822c\/model.gz.bobj"
+          },
+          "families" : [
+
+          ],
+          "tp" : "flooring",
+          "zIndex" : "100",
+          "attributes" : [
+            {
+              "name" : "zindex",
+              "values" : [
+                {
+                  "id" : "4b3ec1a2-5ed1-4a31-a1b3-82ec5e77e089",
+                  "value" : "100"
+                }
+              ],
+              "id" : "9760302e-698a-4a18-8872-72f6ae9568bb"
+            },
+            {
+              "name" : "ContentType",
+              "values" : [
+                {
+                  "id" : "f821a45a-0b60-40ff-b4be-a3100ae05052",
+                  "value" : "rug\/rug"
+                }
+              ],
+              "id" : "6d6d224e-bae0-4045-8c98-b044332ee7aa"
+            },
+            {
+              "name" : "AssetType",
+              "values" : [
+                {
+                  "id" : "001e1123-52fb-42d4-a4fe-beffc201084a",
+                  "value" : "3D"
+                }
+              ],
+              "id" : "f2ebc921-291a-42c6-be8d-e6f3019672fb"
+            },
+            {
+              "name" : "isScalable",
+              "values" : [
+                {
+                  "id" : "f7a2e788-611f-459a-908d-dadd483699d9",
+                  "value" : "false"
+                }
+              ],
+              "id" : "d84e3ec7-d39a-471e-8f39-58f645e209ef"
+            },
+            {
+              "name" : "meshReduce",
+              "values" : [
+                {
+                  "id" : "a4179365-132a-4e14-8860-1e56bcedb8b2",
+                  "value" : "false"
+                }
+              ],
+              "id" : "4266633f-c95b-459c-9cce-1447fdf31ed5"
+            },
+            {
+              "free" : [
+                ""
+              ],
+              "id" : "attr_defaultHeight",
+              "name" : "defaultHeight",
+              "values" : [
+
+              ]
+            },
+            {
+              "free" : [
+                ""
+              ],
+              "id" : "attr_dwgFile",
+              "name" : "dwgFile",
+              "values" : [
+
+              ]
+            }
+          ],
+          "categories" : [
+            "fe412018-32cf-42c6-90e3-69f85776cdac"
+          ]
+        }
+      }
+	  {
+        "id" : "7af99a5a-54ed-4447-aeca-0cbfcba58d97",
+        "count" : "1",
+        "model" : {
+          "imagesResize" : [
+            "http:\/\/midea-prod-assets.s3.cn-north-1.amazonaws.com.cn\/i\/7af99a5a-54ed-4447-aeca-0cbfcba58d97\/resized\/iso_w160_h160.jpg"
+          ],
+          "modifiedTime" : "2016-07-25T06:51:10.265Z",
+          "status" : 1,
+          "top" : "http:\/\/midea-prod-assets.s3.cn-north-1.amazonaws.com.cn\/i\/7af99a5a-54ed-4447-aeca-0cbfcba58d97\/Top.png",
+          "vendorUrl" : "http:\/\/cf-hsm-prod-assets.homestyler.com\/Brands\/0ac3bb4a-adce-4b2a-a52b-eb11c25cf54f.png",
+          "images" : [
+            "http:\/\/midea-prod-assets.s3.cn-north-1.amazonaws.com.cn\/i\/7af99a5a-54ed-4447-aeca-0cbfcba58d97\/iso.jpg"
+          ],
+          "vendor" : "TC",
+          "ticket" : {
+            "sku" : "scene_a_0016_0016"
+          },
+          "name" : "scene_a_0016_0016",
+          "variations" : {
+
+          },
+          "productType" : "3D",
+          "id" : "7af99a5a-54ed-4447-aeca-0cbfcba58d97",
+          "boundingBox" : {
+            "yLen" : 6.800099849700928,
+            "zLen" : 170,
+            "xLen" : 197.5630035400391
+          },
+          "groups" : [
+
+          ],
+          "retailers" : [
+
+          ],
+          "model" : {
+            "modelNormalizedUrl" : "http:\/\/midea-prod-assets.s3.cn-north-1.amazonaws.com.cn\/i\/7af99a5a-54ed-4447-aeca-0cbfcba58d97\/model-norm-fc.gz",
+            "modelUrl" : "http:\/\/midea-prod-assets.s3.cn-north-1.amazonaws.com.cn\/i\/7af99a5a-54ed-4447-aeca-0cbfcba58d97\/model-fc.gz",
+            "textureUrl" : "http:\/\/midea-prod-assets.s3.cn-north-1.amazonaws.com.cn\/i\/7af99a5a-54ed-4447-aeca-0cbfcba58d97\/model-fc.png",
+            "modelBinaryUrl" : "http:\/\/midea-prod-assets.s3.cn-north-1.amazonaws.com.cn\/i\/7af99a5a-54ed-4447-aeca-0cbfcba58d97\/model.gz.bobj"
+          },
+          "families" : [
+
+          ],
+          "tp" : "window",
+          "zIndex" : "200",
+          "attributes" : [
+            {
+              "name" : "zindex",
+              "values" : [
+                {
+                  "id" : "b8edcdbd-f62c-427b-9baf-3262b356a9df",
+                  "value" : "200"
+                }
+              ],
+              "id" : "9760302e-698a-4a18-8872-72f6ae9568bb"
+            },
+            {
+              "name" : "ContentType",
+              "values" : [
+                {
+                  "id" : "e8ebaa79-041a-4977-badc-c00f6780d109",
+                  "value" : "window\/window"
+                }
+              ],
+              "id" : "6d6d224e-bae0-4045-8c98-b044332ee7aa"
+            },
+            {
+              "name" : "AssetType",
+              "values" : [
+                {
+                  "id" : "001e1123-52fb-42d4-a4fe-beffc201084a",
+                  "value" : "3D"
+                }
+              ],
+              "id" : "f2ebc921-291a-42c6-be8d-e6f3019672fb"
+            },
+            {
+              "name" : "isScalable",
+              "values" : [
+                {
+                  "id" : "b514108f-53e7-49cb-b294-5d7e0b9c7097",
+                  "value" : "true"
+                }
+              ],
+              "id" : "d84e3ec7-d39a-471e-8f39-58f645e209ef"
+            },
+            {
+              "name" : "svgFile",
+              "values" : [
+                {
+                  "id" : "ef55d495-fa2d-49b8-a470-534ab6802e0a",
+                  "value" : "https:\/\/hsm-dev-assets.s3.amazonaws.com\/svg\/single_window.svg"
+                }
+              ],
+              "id" : "07dbe905-933d-48f5-a4b1-801d2f0e30c4"
+            },
+            {
+              "name" : "meshReduce",
+              "values" : [
+                {
+                  "id" : "a4179365-132a-4e14-8860-1e56bcedb8b2",
+                  "value" : "false"
+                }
+              ],
+              "id" : "4266633f-c95b-459c-9cce-1447fdf31ed5"
+            },
+            {
+              "free" : [
+                "85"
+              ],
+              "id" : "attr_defaultHeight",
+              "name" : "defaultHeight",
+              "values" : [
+
+              ]
+            },
+            {
+              "free" : [
+                ""
+              ],
+              "id" : "attr_dwgFile",
+              "name" : "dwgFile",
+              "values" : [
+
+              ]
+            },
+            {
+              "name" : "meshReduce",
+              "values" : [
+                {
+                  "id" : "a4179365-132a-4e14-8860-1e56bcedb8b2",
+                  "value" : "false"
+                }
+              ],
+              "id" : "4266633f-c95b-459c-9cce-1447fdf31ed5"
+            }
+          ],
+          "categories" : [
+            "173417c5-e9a9-4bc9-8e50-178a066391ac"
+          ]
+        }
+      }
+    ]
+  },
+  "code": "201002"
+}
